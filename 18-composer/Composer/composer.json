@@ -1,0 +1,15 @@
+{
+    "name": "diogo/composer",
+    "description": "Aula de PHP 7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Diogo Valente de Aragão",
+            "email": "diogovalentearagao@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
